@@ -14,5 +14,3 @@ if(isset($_SESSION['myname']))
    }
 
    header("Location: login.php");
-
-?>

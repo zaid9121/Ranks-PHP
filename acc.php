@@ -6,7 +6,6 @@ access('ACCOUNTANT');
 include "header.php";
 ?>
 
-  <h1>this is the accountant page</h1>
+<h1>this is the accountant page</h1>
 
-<?php include  "footer.php";?>
-
+<?php include  "footer.php"; ?>
